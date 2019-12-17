@@ -1,4 +1,4 @@
-# github pages theme    
+# cool-landing 
 
 ### DEMO is [here](https://nordicgiant2.github.io/cool-landing-page/index.html)
 
