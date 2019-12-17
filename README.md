@@ -1,8 +1,10 @@
 # github pages theme    
 
-### DEMO is [here](https://nordicgiant2.github.io/gh-pages-theme-page/)
+### DEMO is [here](https://nordicgiant2.github.io/cool-landing-page/index.html)
 
 ![img](https://github.com/nordicgiant2/gh-pages-theme/blob/master/image/01.jpg?raw=true)
+
+![img](https://github.com/nordicgiant2/gh-pages-theme/blob/master/image/02.jpg?raw=true)
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) library
 #### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
